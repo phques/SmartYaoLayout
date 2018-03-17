@@ -1,0 +1,48 @@
+QWERTY layout on two Koolertron (SmartYao) single hand 48keys kbds
+
+
+Separated similar to Microsoft Sculpt Ergonomic
+(QWERt ASDFg on the left) (yUIOP hJKL; on the right)
+split is between the middle columns of home rows
+
+
+    01 02 03 04 05 06 07 08   01 02 03 04 05 06 07 08
+    
+1  Esc F1 F2 F3 F4 F5 F6 F7   F8 F9 F0 F1 F2 Ps Sc Pa
+2       ` 1  2  3  4  5       6  7  8  9  0  -  =  Bs
+3      Tb Q  W  E  R  T       Y  U  I  O  P  [  ]  \
+4      Cl A  S  D  F  G       H  J  K  L  ;  '  Ent
+5      Sh Z  X  C  V  B       N  M  ,  .  /  Sh
+
+6      ^  #  !    Space       !  (#) Menu ^
+
+
+
+left hand shifted completely to the left
+
+    01 02 03 04 05 06 07 08   01 02 03 04 05 06 07 08
+    
+1  Esc F1 F2 F3 F4 F5 F6 F7   F8 F9 F0 F1 F2 Ps Sc Pa
+2    ` 1  2  3  4  5          6  7  8  9  0  -  =  Bs
+3   Tb Q  W  E  R  T          Y  U  I  O  P  [  ]  \
+4   Cl A  S  D  F  G          H  J  K  L  ;  '  Ent
+5   Sh Z  X  C  V  B          N  M  ,  .  /  Sh
+
+6     ^  #  !      En Sp    !  #  Menu  ^
+
+
+ 
+-- More letters on the left --
+
+prob: right hand has no 'middle column' !!
+
+    01 02 03 04 05 06 07 08   01 02 03 04 05 06 07 08
+    
+1  Esc F1 F2 F3 F4 F5 F6 F7   F8 F9 F0 F1 F2 Ps Sc Pa
+2    ` 1  2  3  4  5  6       7  8  9  0  -  =  Bs
+3   Tb Q  W  E  R  T  Y       U  I  O  P  [  ]  \
+4   Cl A  S  D  F  G  H       J  K  L  ;  '  Ent
+5   Sh Z  X  C  V  B  N       M  ,  .  /  Sh
+
+6     ^  #  !    Space    !  #  Menu  ^
+ 
