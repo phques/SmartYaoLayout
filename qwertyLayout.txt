@@ -46,3 +46,15 @@ prob: right hand has no 'middle column' !!
 
 6     ^  #  !    Space    !  #  Menu  ^
  
+
+-- Right Hand shifted x 2 : ref/base for AHK layouts --
+
+                              (profile\qwerty\qwertyRightShifted.bin)
+    01 02 03 04 05 06 07 08   01 02 03 04 05 06 07 08 
+    
+1  Esc F1 F2 F3 F4 F5 F6 F7   Sc Pa F8 F9 F0 F1 F2 Ps
+2       ` 1  2  3  4  5       =  Bs 6  7  8  9  0  - 
+3      Tb Q  W  E  R  T       ]  \  Y  U  I  O  P  [ 
+4      Cl A  S  D  F  G         Ent H  J  K  L  ;  ' 
+5      Sh Z  X  C  V  B             N  M  ,  .  /  Sh
+

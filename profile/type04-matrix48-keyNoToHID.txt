@@ -1,0 +1,27 @@
+SmartYao LY092-SN matrix keyboard (single hand 48 keys matrix)
+
+This is how the keys are numbered in the smdk72 soft
+
+ 11 12 13 14 15 16 17 18
+ 21 22 23 24 25 26 27 28
+ 31 32 33 34 35 36 37 38
+ 41 42 43 44 45 46 47 48
+ 51 52 53 54 55 56 57 58
+ 61 62 63 64 65 66 67 68
+
+I will try to create a hardware mapping where each key will be mapped 
+to an HID code corresponding to its key position.
+
+These can then be mapped in the OS (Windows) with autohotkey.
+I a bit worried about the CapsLock (hid 57) key being used here though !?
+
+equivalent key character for above usb hid values:
+(this is what the OS will see)
+
+ (11-18) h i j k l m n o
+ (21-28) r s t u v w x y 
+ (31-38) 2 3 4 5 6 7 8 9 
+ (41-48) Escape Backspace Tab Space - = [ ]
+ (51-58) ; ' ` , . / CapsLock F1
+ (61-68) F4 F5 F6 F7 F8 F9 F10 F11
+ 
