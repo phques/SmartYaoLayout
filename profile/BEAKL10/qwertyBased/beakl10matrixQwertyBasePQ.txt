@@ -1,0 +1,16 @@
+http://shenafu.com/code/keyboard/beakl/index.php
+http://shenafu.com/smf/index.php?topic=89.900
+
+BEAKL10
+
+This version uses as base a qwerty setup on the LY092-SN
+copies of
+profile\qwerty\qwertyLeft.bin
+profile\qwerty\qwertyRightShifted.bin
+(right hand is 'qwertyShifted' so that the home row is where we want it)
+
+with BEAKL10 specific mods for the alt/shift etc keys
+and personal adjustments (thumbs)
+
+**Note: the LY092-SN des NOT output Alt_R, so we use Numpad5 as altGr instead !
+
