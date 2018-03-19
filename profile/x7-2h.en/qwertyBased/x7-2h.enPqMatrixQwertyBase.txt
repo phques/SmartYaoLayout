@@ -1,0 +1,17 @@
+X7.2H Ergolinear kbd layout by Ian Douglas
+(same alphab as X7.1H, reworked puncs (?))
+
+http://www.keyboard-design.com/
+see also http://shenafu.com/smf/index.php?topic=89.0
+
+This version uses as base a qwerty setup on the LY092-SN
+copies of
+profile\qwerty\qwertyLeft.bin
+profile\qwerty\qwertyRightShifted.bin
+(right hand is 'qwertyShifted' so that the home row is where we want it)
+
+with X7.2H specific mods for the alt/shift etc keys
+and personal adjustments (thumbs)
+
+**Note: the LY092-SN des NOT output Alt_R, so we use Numpad5 as altGr instead !
+
